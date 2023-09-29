@@ -1,0 +1,560 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "files": [
+        {
+          "id": 2,
+          "name": "Техническое требование к продукту",
+          "rows": [
+            {
+              "id": "a3",
+              "type": "str",
+              "value": "Глава 1",
+              "styles": {
+                "bold": true,
+                "italic": true,
+                "underline": false,
+                "left": false,
+                "center": false,
+                "right": false
+              },
+              "children": [],
+              "link": []
+            },
+            {
+              "id": "62f10045-8171-4873-8bfa-26d36c124a01",
+              "type": "txt",
+              "value": "НАИМЕНОВАНИЕ ОРГАНИЗАЦИИ",
+              "styles": {
+                "bold": true,
+                "italic": false,
+                "underline": false,
+                "left": false,
+                "center": true,
+                "right": false
+              },
+              "link": [],
+              "children": []
+            },
+            {
+              "id": "cbbca63c-c8ec-4e18-a10a-246d16079af8",
+              "type": "str",
+              "value": "Глава 2",
+              "styles": {
+                "bold": true,
+                "italic": true,
+                "underline": false,
+                "left": false,
+                "center": false,
+                "right": false
+              },
+              "link": [],
+              "children": [
+                {
+                  "id": "6d104e4e-581e-4fd3-9552-6e5ac03752a3",
+                  "type": "str",
+                  "value": "Подраздел 2.1",
+                  "styles": {
+                    "bold": false,
+                    "italic": true,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "fd37714b-e33e-4d46-aa8a-9d7425cb887f",
+                  "type": "txt",
+                  "value": "УТВЕРЖДАЮ",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": true,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "86a05675-9000-4d49-a39f-40c039cc4735",
+                  "type": "txt",
+                  "value": "Руководитель (должность, наименование предприятия - заказчика АС)",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "c500f6fc-e104-4e23-8f5d-f417ca5685e4",
+                  "type": "txt",
+                  "value": "Личная подпись, расшифровка подписи",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "36da2e91-4e7e-41da-9de9-0c4842a2ec90",
+                  "type": "txt",
+                  "value": "Печать",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "0f4f3d7a-5eb0-4cdb-a9b7-3b11e689b16c",
+                  "type": "txt",
+                  "value": "Дата",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "ecb5df12-e88b-4833-9654-11cb42ea9ca1",
+              "type": "str",
+              "value": "Глава 3",
+              "styles": {
+                "bold": true,
+                "italic": true,
+                "underline": false,
+                "left": false,
+                "center": false,
+                "right": false
+              },
+              "link": [],
+              "children": [
+                {
+                  "id": "a8030db6-a336-4a8c-9812-42e025948f00",
+                  "type": "str",
+                  "value": "Подраздел 3.1",
+                  "styles": {
+                    "bold": false,
+                    "italic": true,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [
+                    {
+                      "fileId": 6,
+                      "rowId": "b9"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "f09ab068-8bea-4fc8-a196-297fdf9fb669",
+                  "type": "txt",
+                  "value": "Наименование вида АС",
+                  "styles": {
+                    "bold": true,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": true,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "a3c91253-421e-48b6-9890-74e1400b90d4",
+                  "type": "txt",
+                  "value": "Наименование объекта автоматизации",
+                  "styles": {
+                    "bold": true,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": true,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "4cf2dae0-1c0b-4248-9976-3d8370075175",
+                  "type": "txt",
+                  "value": "СОКРАЩЕННОЕ НАИМЕНОВАНИЕ АС",
+                  "styles": {
+                    "bold": true,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": true,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "f9e82239-2f83-4f02-9440-3ce462149845",
+                  "type": "txt",
+                  "value": "ТЕХНИЧЕСКОЕ ЗАДАНИЕ",
+                  "styles": {
+                    "bold": true,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": true,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "928d2079-b798-4981-95a9-a2709ecd088b",
+                  "type": "txt",
+                  "value": "на - листах",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": true,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "dee66fc7-dada-4a9d-acb2-44ff6072c044",
+                  "type": "txt",
+                  "value": "Действует с дд.мм.гггг",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": true,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "fdd1608d-5800-4047-904b-0659a3149130",
+                  "type": "str",
+                  "value": "Подраздел 3.2",
+                  "styles": {
+                    "bold": false,
+                    "italic": true,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [
+                    {
+                      "fileId": 6,
+                      "rowId": "b9"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "de2d66c2-ff36-48e9-abc2-0ce9dab87b07",
+                  "type": "txt",
+                  "value": "СОГЛАСОВАННО",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "a25d2c88-39f8-4bed-b531-0ab337f227a7",
+                  "type": "txt",
+                  "value": "Руководитель (должность, наименование согласующей организации)",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "a9aa03c1-c2be-483c-ad49-842ef99f57a9",
+                  "type": "txt",
+                  "value": "Личная подпись, расшифровка подписи",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "ced5ffca-cede-485e-bd9e-5e7551aca337",
+                  "type": "txt",
+                  "value": "Печать",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "56d43b8a-858b-4e24-8c65-e4dca8525628",
+                  "type": "txt",
+                  "value": "Дата",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "6bd6e86e-a4f3-4623-aab5-535331f6ad12",
+                  "type": "txt",
+                  "value": "ТЗ на АС содержит следующие разделы:",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": []
+                },
+                {
+                  "id": "35db5be9-137b-4767-8b84-e07c81fcdb1c",
+                  "type": "str",
+                  "value": "Подраздел 3.3",
+                  "styles": {
+                    "bold": false,
+                    "italic": true,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [
+                    {
+                      "fileId": 6,
+                      "rowId": "b9"
+                    },
+                    {
+                      "fileId": 6,
+                      "rowId": "b7"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "0e3fbf97-1579-4c0c-b787-7f47212ce98a",
+                  "type": "table",
+                  "value": "",
+                  "styles": {
+                    "bold": false,
+                    "italic": false,
+                    "underline": false,
+                    "left": false,
+                    "center": false,
+                    "right": false
+                  },
+                  "link": [],
+                  "children": [],
+                  "tableData": [
+                    {
+                      "col1": "1",
+                      "col2": "2",
+                      "col3": "3",
+                      "col4": "4"
+                    },
+                    {
+                      "col1": "5",
+                      "col2": "6",
+                      "col3": "7",
+                      "col4": "8"
+                    },
+                    {
+                      "col1": "9",
+                      "col2": "10",
+                      "col3": "11",
+                      "col4": "12"
+                    },
+                    {
+                      "col1": "13",
+                      "col2": "14",
+                      "col3": "15",
+                      "col4": "16"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Сценарий тестирования",
+          "rows": [
+            {
+              "id": "b7",
+              "type": "str",
+              "value": "Test #1",
+              "styles": {
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "left": false,
+                "center": false,
+                "right": false
+              },
+              "children": [],
+              "link": [
+                {
+                  "fileId": 2,
+                  "rowId": "35db5be9-137b-4767-8b84-e07c81fcdb1c"
+                }
+              ]
+            },
+            {
+              "id": "5cb752b3-5bd2-4a69-9976-50b07903bab2",
+              "type": "img",
+              "value": "https://proprikol.ru/wp-content/uploads/2020/07/kartinki-zimnij-vecher-25.jpg",
+              "styles": {
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "left": true,
+                "center": false,
+                "right": false
+              },
+              "link": [],
+              "children": []
+            },
+            {
+              "id": "b8",
+              "type": "str",
+              "value": "Test #2",
+              "styles": {
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "left": false,
+                "center": false,
+                "right": false
+              },
+              "children": [],
+              "link": []
+            },
+            {
+              "id": "432c18dc-2acc-42db-b34d-6c194cfbc98a",
+              "type": "img",
+              "value": "https://proprikol.ru/wp-content/uploads/2020/07/kartinki-zimnij-vecher-25.jpg",
+              "styles": {
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "left": false,
+                "center": false,
+                "right": false
+              },
+              "link": [],
+              "children": []
+            },
+            {
+              "id": "b9",
+              "type": "str",
+              "value": "Test #3",
+              "styles": {
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "left": false,
+                "center": false,
+                "right": false
+              },
+              "children": [],
+              "link": [
+                {
+                  "fileId": 2,
+                  "rowId": "a13"
+                },
+                {
+                  "fileId": 2,
+                  "rowId": "a5"
+                },
+                {
+                  "fileId": 2,
+                  "rowId": "a8030db6-a336-4a8c-9812-42e025948f00"
+                },
+                {
+                  "fileId": 2,
+                  "rowId": "fdd1608d-5800-4047-904b-0659a3149130"
+                },
+                {
+                  "fileId": 2,
+                  "rowId": "35db5be9-137b-4767-8b84-e07c81fcdb1c"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
